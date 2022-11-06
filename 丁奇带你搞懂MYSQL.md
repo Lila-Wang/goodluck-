@@ -1,4 +1,4 @@
-从原理到实战，丁奇地啊你搞懂MYSQL（45讲）
+从原理到实战，丁奇带你搞懂MYSQL（45讲）
 https://funnylog.gitee.io/mysql45/
 
 1 MySQL可以分为Server层和存储引擎层两部分。
